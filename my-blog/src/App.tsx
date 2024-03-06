@@ -3,7 +3,7 @@ import { BlogListPage } from 'pages/BlogListPage';
 
 
 
-function App() {
+function App() { //20240301 from https://deku.posstree.com/
   return <BlogListPage />;
 }
 
@@ -11,6 +11,16 @@ function App() {
 
 
 export default App;
+
+
+
+
+
+
+
+
+
+
 
 
 
